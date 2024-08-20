@@ -1,5 +1,5 @@
 ## Dashboard
- ([https://github.com/Vikant07/Optimizing-User-Experience-Global-Dining-Trends-Analysis/blob/main/Screenshot%202024-08-17%20115919.jpg])
+ ![(https://github.com/Vikant07/Optimizing-User-Experience-Global-Dining-Trends-Analysis/blob/main/Screenshot%202024-08-17%20115919.jpg)]
 *Example of the interactive dashboard showcasing key insights from the analysis.*
 
 # Optimizing-User-Experience-Global-Dining-Trends-Analysis
