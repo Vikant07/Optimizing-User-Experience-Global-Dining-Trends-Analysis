@@ -11,7 +11,8 @@ This project analyzes global dining trends using Zomato data to enhance user eng
 - **Visualizations and Reports:** Generate comprehensive reports and visualizations.
 
 ## Dashboard
-![Dashboard](https://github.com/Vikant07/Optimizing-User-Experience-Global-Dining-Trends-Analysis/blob/d89b707f3fbb405632ea5baca2edfbba34769ed2/Screenshot%202025-01-06%20193121.jpg)  
+![Dashboard](https://github.com/Vikant07/Optimizing-User-Experience-Global-Dining-Trends-Analysis/blob/d89b707f3fbb405632ea5baca2edfbba34769ed2/Screenshot%202025-01-06%20193121.jpg)
+![](https://github.com/Vikant07/Optimizing-User-Experience-Global-Dining-Trends-Analysis/blob/25a7b1ba37ab583282415514185ae029477a47b5/Screenshot%202025-01-06%20193147.jpg)  
 *Example of the interactive dashboard showcasing key insights from the analysis.*
 
 
